@@ -133,7 +133,7 @@
 				</dict>
 			</dict>
 			<key>RM,deliverNotifications</key>
-			<true/>
+			<false/>
 		</dict>
 	</dict>
 	<key>LSMinimumSystemVersion</key>

@@ -1,12 +1,14 @@
-# T480-OpenCore-Hackintosh
+# X270-OpenCore-Hackintosh
 
 ### CREDITS:
+
+- [EETagent](https://github.com/EETagent/T480-OpenCore-Hackintosh) For forked T480 OpenCore repo
+
+- [michaeldigiacomi](https://github.com/michaeldigiacomi/Lenovo-X270-Hackintosh-OpenCore) For x270 repo and advice to try use T470 as base repo.
 
 - [taina0407](https://github.com/taina0407) For orginal T480 OpenCore repo
 
 - The guys from [Acidanthera](https://github.com/acidanthera) that make this possible
-   
-- [1Revenger1](https://github.com/1Revenger1) and [leo-labs](https://github.com/leo-labs) for [VoodooRMI](https://github.com/VoodooSMBus/VoodooRMI) and [VoodooSMBus](https://github.com/VoodooSMBus/VoodooSMBus)
 
 - [al3xtjames](https://github.com/al3xtjames) for [NoTouchID](https://github.com/al3xtjames/NoTouchID)
 
@@ -17,8 +19,6 @@
 - [headkaze](https://github.com/headkaze) for [Hackintool](https://github.com/headkaze/Hackintool)
 
 - [hieplpvip](https://github.com/hieplpvip) for [AppleBacklightSmoother](https://github.com/hieplpvip/AppleBacklightSmoother)
-
-- [jwise](https://github.com/jwise) for [HoRNDIS](https://github.com/jwise/HoRNDIS)
 
 - [Mieze](https://github.com/Mieze) for [IntelMausiEthernet](https://github.com/Mieze/IntelMausiEthernet)
 
